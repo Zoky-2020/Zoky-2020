@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhiqiang Wang
+- 👋 Hi, I’m Zhiqiang WANG
 - 👀 I’m interested in AML.
 
 <!---
