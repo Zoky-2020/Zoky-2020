@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhiqiang WANG
-- 👀 I’m interested in AML.
+- 👀 I’m interested in Trustworthy Machine Learning.
 
 <!---
 Zoky-2020/Zoky-2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
