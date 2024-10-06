@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhiqiang WANG
+- 👋 Hi, I’m WANG Zhiqiang.
 - 👀 I’m interested in Trustworthy Machine Learning.
 
 <!---
